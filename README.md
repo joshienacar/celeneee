@@ -1,6 +1,6 @@
 # Jocelyn Custodio Portfolio
 This is my personal portfolio built with HTML, CSS, and JavaScript.  
-Live site: [Portfolio Link](https://jocelyncustodio.github.io/custodio-portfolio/)  
+Live site: [Portfolio Link]((https://joshienacar.github.io/celeneee/))  
 
 ## Sections
 - Home
